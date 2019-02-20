@@ -1,0 +1,42 @@
+.ui.borderless.topmenu.menu{
+  background-color: #005627;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: 100px;
+  box-shadow: none;
+  border:none;
+
+}
+
+.main-background {
+  background: url("https://i0.wp.com/www.eng.hawaii.edu/wp-content/uploads/2019/02/shiroma.nai_-1.jpg?zoom=2&w=1800&ssl=1") no-repeat center center;
+  background-size: auto;
+  height: 470px;
+  color: white;
+}
+
+
+.colorblocktop {
+  padding-top: 50px;
+}
+
+.vision{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.EventsNews{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.footer-background {
+  background-color: #005627 ;
+  height: 200px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
+
+.text.one {
+  color: white;
+  align: left;
+}
